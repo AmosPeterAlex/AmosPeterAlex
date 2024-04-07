@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AmosPeterAlex</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Cropmate](https://github.com/AmosPeterAlex/cropmate)
+- 🔭 I’m currently working on Flutter 
 
 - 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
 
