@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
 
-- 👯 I’m looking to collaborate on **any Mobile App Ideas**
+- 👯 I’m looking to collaborate on **any Mobile App Ideas to be built uusing Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
 
