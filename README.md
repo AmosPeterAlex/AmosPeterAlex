@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AmosPeterAlex</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-- 🔭 I’m currently working on New Flutter Project named recipe Recommendation App named Yummly
+- 🔭 I’m currently looking to work on New Flutter Projects.
 
 - 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
 
