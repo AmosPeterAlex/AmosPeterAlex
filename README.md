@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amospeteralex" alt="amospeteralex" /></a> </p>
 
-- 🔭 I’m currently working on [Cropmate](https://github.com/AmosPeterAlex/cropmate)
+- 🔭 I’m currently looking to work on new flutter projects.
 
 - 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
 
