@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amospeteralex&label=Profile%20views&color=0e75b6&style=flat" alt="amospeteralex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amospeteralex" alt="amospeteralex" /></a> </p>
-
 - 🔭 I’m currently looking to work on new flutter projects.
 
 - 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
 
-- 👯 I’m looking to collaborate on **any Mobile App Ideas**
+- 👯 I’m looking to collaborate on **any Mobile Application Ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
 
