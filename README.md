@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking to work on new flutter projects.
 
-- 🌱 I’m currently learning **Flutter,State management,Firebase,REST API**
+- 🌱 I’m currently learning **Flutter,Getx,Provider,Firebase,REST API**
 
 - 👯 I’m looking to collaborate on **any Mobile Application Ideas**
 
