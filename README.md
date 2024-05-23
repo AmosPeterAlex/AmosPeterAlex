@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently looking to work on new flutter projects.
 
-- 🌱 I’m currently learning **Flutter, Getx, Provider, Firebase, REST API**
+- 🌱 I’m currently learning **Getx, GoRouter, REST API**
 
-- 👯 I’m looking to collaborate on **any Mobile Application Ideas**
+- 👯 I’m looking to collaborate on **any Mobile Application Ideas or Web ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
 
