@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking to work on new flutter projects.
 
-- 🌱 I’m currently learning **Getx, GoRouter, REST API**
+- 🌱 I’m currently learning **Getx, GoRouter, Graphql, REST API**
 
 - 👯 I’m looking to collaborate on **any Mobile Application Ideas or Web ideas**
 
