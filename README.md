@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
 
-- 💬 Ask me about **Tech related stuff, mainly FLUTTER**
+- 💬 Ask me about **Tech related stuff, mainly about FLUTTER**
 
 - 📫 How to reach me **amospalex@gmail.com**
 
