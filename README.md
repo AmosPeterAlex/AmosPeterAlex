@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking to work on new projects using flutter framework.
 
-- 🌱 I’m currently learning **Getx, GoRouter, Graphql, Syncfusion, REST API**
+- 🌱 I’m currently learning **Getx, GoRouter, Graphql, REST API, Syncfusion**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
