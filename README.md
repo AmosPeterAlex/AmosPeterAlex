@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Getx, GoRouter, Graphql, REST API, Syncfusion**
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
 
 - 💬 Ask me about **Tech related stuff, mostly about FLUTTER**
