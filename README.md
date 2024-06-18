@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amospeteralex&label=Profile%20views&color=0e75b6&style=flat" alt="amospeteralex" /> </p>
 
-- 🔭 I’m currently looking to work on new projects using flutter framework.
-
 - 🌱 I’m currently learning **Getx, GoRouter, Graphql, REST API, Syncfusion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
