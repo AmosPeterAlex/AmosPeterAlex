@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amospeteralex&label=Profile%20views&color=0e75b6&style=flat" alt="amospeteralex" /> </p>
 
-- 🌱 I’m currently learning **Getx, GoRouter, Graphql, REST API, Syncfusion**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AmosPeterAlex](https://github.com/AmosPeterAlex)
-
-- 💬 Ask me about **Tech related stuff, mostly about FLUTTER**
-
-- 📫 How to reach me **amospalex@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amos-p-alexbd28072000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos-p-alexbd28072000/" height="30" width="40" /></a>
