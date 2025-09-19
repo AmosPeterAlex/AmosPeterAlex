@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Amos Peter Alex</h1>
-<h3 align="center">A passionate software developer from Kerala, currently working as a Flutter developer</h3>
+
+<p align="center">💻 Frontend Developer specializing in Flutter</p>
+<p align="center">📱 Building apps with clean UI/UX and smooth user experiences</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amospeteralex&label=Profile%20views&color=0e75b6&style=flat" alt="amospeteralex" /> 
