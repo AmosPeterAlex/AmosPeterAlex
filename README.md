@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Amos P Alex</h1>
+<h1 align="center">Hello 👋, I'm Amos Peter Alex</h1>
 
 <p align="center">💻 Frontend Developer specializing in Flutter</p>
 <p align="center">📱 Building apps with clean UI/UX and smooth user experiences</p>
